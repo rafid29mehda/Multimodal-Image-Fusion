@@ -157,5 +157,4 @@ The following table summarizes why multimodality image fusion for cancer diagnos
 | Transform Domain | Wavelet-based fusion | Handles multiscale features well | Limited adaptability to complex data |
 | AI-Based | CNNs, GANs | High accuracy, automated | Requires large datasets, interpretability issues |
 
-**Conclusion**  
-Writing a review paper on "Multimodality Image Fusion for Enhanced Cancer Diagnosis" is an excellent opportunity to strengthen your PhD application. By following this guide—defining the scope, conducting a thorough literature search, structuring the paper, and leveraging your ICE background—you can create a compelling and impactful review. The paper will not only contribute to the field but also demonstrate your readiness for advanced research in biomedical engineering. Aim for publication in a high-impact journal or presentation at a conference to maximize its visibility and enhance your academic profile. Good luck with your review paper and PhD journey!
+
