@@ -2,7 +2,7 @@
 **Introduction**  
 Multimodality image fusion involves integrating data from multiple imaging modalities, such as Positron Emission Tomography (PET), Computed Tomography (CT), and Magnetic Resonance Imaging (MRI), to create a comprehensive view of anatomical and functional information. This approach is particularly valuable in oncology, where precise tumor characterization is essential for diagnosis, staging, and treatment planning. The complexity of cancer, a leading cause of mortality worldwide, drives the high demand for advanced diagnostic tools like multimodality fusion. Recent advancements in image registration and fusion algorithms, particularly those leveraging artificial intelligence (AI) and deep learning, have significantly improved diagnostic accuracy. This guide outlines how to write a review paper that addresses current techniques, clinical applications, challenges, and future directions in this field, leveraging your ICE background to contribute to this interdisciplinary area.  
 
-**Step-by-Step Guide to Writing Your Review Paper**  
+**Step-by-Step Guide to Write the Review Paper**  
 
 **Step 1: Define the Scope**  
 - **Focus**: Concentrate on multimodality image fusion techniques (e.g., PET-CT, MRI-PET, MRI-CT) for enhancing cancer diagnosis, including tumor detection, staging, and treatment planning.  
