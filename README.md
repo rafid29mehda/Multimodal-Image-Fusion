@@ -26,7 +26,7 @@ Multimodality image fusion involves integrating data from multiple imaging modal
 
 **Step 3: Organize and Analyze the Literature**  
 - **Categorize Findings**:  
-  - **Historical Background**: Early image fusion technique (e.g., manual registration in the 1990s) and key milestones (e.g., development of PET-CT scanners).  
+  - **Historical Background**: Early image fusion techniques (e.g., manual registration in the 1990s) and key milestones (e.g., development of PET-CT scanners).  
   - **Current Techniques**: Spatial domain methods, transform domain methods (e.g., wavelet-based), and AI-based methods (e.g., convolutional neural networks, generative adversarial networks).  
   - **Applications**: Tumor detection, staging, treatment planning, and monitoring in cancers like lung, breast, and prostate.  
   - **Recent Breakthroughs**: Deep learning models for automated fusion, hybrid imaging systems, and clinical trial outcomes.  
