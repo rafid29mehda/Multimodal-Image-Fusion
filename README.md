@@ -122,7 +122,7 @@ A well-organized review paper typically includes the following sections, tailore
 
 **Step 6: Enhance the PhD Application**  
 - **Tailor to PhD Goals**:  
-  - In the introduction or conclusion, briefly mention how this review reflects the research interests and readiness for PhD-level work.  
+  - In the introduction or conclusion, briefly mention how this review reflects the research interest and readiness for PhD-level work.  
   - Identify potential PhD advisors in the USA whose research aligns with multimodality imaging and reference their work in the paper.  
 - **Publication Strategy**:  
   - Target high-impact journals like **[IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)** or **[Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis)**.  
