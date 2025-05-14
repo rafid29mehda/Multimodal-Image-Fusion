@@ -7,7 +7,7 @@ Multimodality image fusion involves integrating data from multiple imaging modal
 **Step 1: Define the Scope**  
 - **Focus**: Concentrate on multimodality image fusion techniques (e.g., PET-CT, MRI-PET, MRI-CT) for enhancing cancer diagnosis, including tumor detection, staging, and treatment planning.  
 - **Relevance to 2025**: Highlight recent advancements in AI-driven fusion algorithms, clinical trials, and challenges in handling heterogeneous data, as these are trending topics in biomedical imaging.  
-- **Avoid broad coverage**: Exclude non-oncological applications (e.g., neurological or cardiovascular imaging) unless they provide context for future cancer related developments.  
+- **Avoid broad coverage**: Exclude non-oncological applications (e.g., neurological or cardiovascular imaging) unless they provide context for future cancer-related developments.  
 
 **Step 2: Conduct a Comprehensive Literature Search**  
 - **Academic Databases**: Use **[PubMed](https://pubmed.ncbi.nlm.nih.gov/)**, **[IEEE Xplore](https://ieeexplore.ieee.org/)**, **[Google Scholar](https://scholar.google.com/)**, and **[Scopus](https://www.scopus.com/)** to find peer-reviewed articles.  
