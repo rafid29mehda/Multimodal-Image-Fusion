@@ -149,7 +149,7 @@ The following table summarizes why multimodality image fusion for cancer diagnos
 - **Address Interdisciplinarity**: Highlight how multimodality fusion integrates engineering, radiology, and oncology, showcasing the ability to work across fields.  
 - **Ethical Balance**: Acknowledge challenges like data privacy diplomatically to show critical thinking.  
 
-**Example Table: Comparison of Multimodality Fusion Technique**  
+**Example Table: Comparison of Multimodality Fusion Techniques**  
 
 | **Technique** | **Examples** | **Advantages** | **Challenges** |
 |---------------|--------------|----------------|----------------|
